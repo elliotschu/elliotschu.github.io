@@ -2,6 +2,7 @@
 Elliot Schumacher, Johns Hopkins University
 Created 7/17/18
 
+Helpful troubleshooting links-
 https://stackoverflow.com/questions/46274040/append-a-list-in-google-sheet-from-python
 https://developers.google.com/sheets/api/quickstart/python
 https://stackoverflow.com/questions/36061433/how-to-do-i-locate-a-google-spreadsheet-id
