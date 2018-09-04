@@ -37,7 +37,7 @@ def add_score_results(results):
       "majorDimension": "ROWS",
       "values": row
     }
-    spreadsheetId = "1IKUtCqsJ9JUrvyC3XmZqxAgDvIrKqlAY1zsdm6OdKZ4"
+    spreadsheetId = ""
     range = "Uploaded!A:G"
 
     service.spreadsheets().values().append(
